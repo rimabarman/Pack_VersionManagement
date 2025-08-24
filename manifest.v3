@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Values version="10.0">
+<Values version="1.0">
   <value name="enabled">yes</value>
   <value name="system_package">no</value>
-  <value name="version">8.0</value>
+  <value name="version">9.0</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
